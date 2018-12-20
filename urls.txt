@@ -1,0 +1,6 @@
+https://registration-pal-milan-leon.apps.pikes.pal.pivotal.io/users/{USER_ID}
+https://registration-pal-milan-leon.apps.pikes.pal.pivotal.io/accounts?ownerId={USER_ID}
+https://registration-pal-milan-leon.apps.pikes.pal.pivotal.io/projects?accountId={ACCOUNT_ID}
+https://allocations-pal-milan-leon.apps.pikes.pal.pivotal.io/allocations?projectId={PROJECT_ID}
+https://backlog-pal-milan-leon.apps.pikes.pal.pivotal.io/stories?projectId={PROJECT_ID}
+https://timesheets-pal-milan-leon.apps.pikes.pal.pivotal.io/time-entries?userId={USER_ID}
